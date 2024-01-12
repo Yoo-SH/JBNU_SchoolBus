@@ -1,0 +1,5 @@
+﻿  school bus.cpp
+C:\Users\User\OneDrive - jbnu.ac.kr\바탕 화면\school bus\school bus\school bus.cpp(8,10): warning C4930: 'Time time(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
+school bus.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __cdecl Time::print_time(void)" (?print_time@Time@@QEAAXXZ)
+school bus.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Time::Time(int,int,int)" (??0Time@@QEAA@HHH@Z)
+C:\Users\User\OneDrive - jbnu.ac.kr\바탕 화면\school bus\x64\Release\school bus.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.

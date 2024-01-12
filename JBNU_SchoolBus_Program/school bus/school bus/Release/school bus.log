@@ -1,0 +1,5 @@
+﻿  school bus.cpp
+  Time.cpp
+school bus.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: class Time & __thiscall Time::add_hour(int)" (?add_hour@Time@@QAEAAV1@H@Z)
+school bus.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall Time::Time(int,int,int)" (??0Time@@QAE@HHH@Z)
+C:\Users\User\OneDrive - jbnu.ac.kr\바탕 화면\school bus\Release\school bus.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
